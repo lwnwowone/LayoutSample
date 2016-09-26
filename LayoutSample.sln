@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutSample", "TestScrollView\LayoutSample.csproj", "{BEE27C4A-0CE6-46B5-8763-624BFF7B7AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE27C4A-0CE6-46B5-8763-624BFF7B7AC8}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BEE27C4A-0CE6-46B5-8763-624BFF7B7AC8}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BEE27C4A-0CE6-46B5-8763-624BFF7B7AC8}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BEE27C4A-0CE6-46B5-8763-624BFF7B7AC8}.Release|iPhone.Build.0 = Release|iPhone
+		{BEE27C4A-0CE6-46B5-8763-624BFF7B7AC8}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BEE27C4A-0CE6-46B5-8763-624BFF7B7AC8}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BEE27C4A-0CE6-46B5-8763-624BFF7B7AC8}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BEE27C4A-0CE6-46B5-8763-624BFF7B7AC8}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
